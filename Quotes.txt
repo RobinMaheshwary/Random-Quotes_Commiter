@@ -854,3 +854,4 @@
 "The function of education is to teach one to think intensively and to think critically. Intelligence plus character - that is the goal of true education." - Martin Luther King, Jr.
 "Now, one of the most essential branches of English liberty is the freedom of one's house." - James Otis
 "It seemed the world was divided into good and bad people. The good ones slept better while the bad ones seemed to enjoy the waking hours much more." - Woody Allen
+"It is the business of the future to be dangerous and it is among the merits of science that it equips the future for its duties." - Alfred North Whitehead
