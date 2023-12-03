@@ -2957,3 +2957,4 @@
 "Half our life is spent trying to find something to do with the time we have rushed through life trying to save." - Rogers, Will
 "In youth we learn in age we understand." - Marie von Ebner-Eschenbach
 "The greatest healing therapy is friendship and love." - Hubert H. Humphrey
+"Intelligence is the ability to avoid doing work, yet getting the work done." - Linus Torvalds
