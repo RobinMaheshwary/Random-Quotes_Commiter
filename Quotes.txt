@@ -3109,3 +3109,4 @@
 "Educational institutes can no longer be prizes in church politics or furnish berths for failure in other walks of life." - E. Franklin Frazier
 "We've got a first class leader at the moment. David Cameron is dealing with the issues that he was left by the last government very well indeed." - Theresa May
 "There are only really a few stories to tell in the end, and betrayal and the failure of love is one of those good stories to tell." - Sean Lennon
+"Shareware tends to combine the worst of commercial software with the worst of free software." - Linus Torvalds
