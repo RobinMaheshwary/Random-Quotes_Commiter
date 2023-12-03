@@ -24,4 +24,4 @@ while True:
     print("Changes committed, pushed, and synchronized with the repository.")
 
     # Wait for an hour before the next commit
-    time.sleep(20)  # 3600 seconds = 1 hour
+    time.sleep(1800)  # 3600 seconds = 1 hour
