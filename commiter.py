@@ -15,7 +15,7 @@ def push_changes():
 
 # Example: Auto commit every hour
 while True:
-    commit_message = input("Enter commit message: ")
+    commit_message = message
     commit_changes(commit_message)
     push_changes()
     print("Changes committed and pushed to the repository.")
