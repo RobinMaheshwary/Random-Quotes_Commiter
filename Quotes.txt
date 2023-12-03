@@ -755,3 +755,4 @@
 305;It seems as if an age of genius must be succeeded by an age of endeavour riot and extravagance by cleanliness and hard work.;Virginia Woolf;age
 306;Old age is ready to undertake tasks that youth shirked because they would take too long.;W. Somerset Maugham;age
 307;A woman tells her doctor, 'I've got a bad back.' The doctor says, 'It's old age.' The woman says, 'I want a second opinion.' The doctor says: 'Okay - you're ugly as well." - Tommy Cooper
+"Show me a good and gracious loser and I'll show you a failure." - Knute Rockne
