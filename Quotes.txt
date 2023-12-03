@@ -2721,3 +2721,4 @@
 "Art is the only way to run away without leaving home." - Twyla Tharp
 "I forgot to shake hands and be friendly. It was an important lesson about leadership." - Lee Iacocca
 "Good breeding consists in concealing how much we think of ourselves and how little we think of the other person." - Mark Twain
+"Under a government which imprisons any unjustly, the true place for a just man is also a prison." - Henry David Thoreau
