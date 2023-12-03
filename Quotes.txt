@@ -836,3 +836,5 @@
 "We can't form our children on our own concepts we must take them and love them as God gives them to us." - Johann Wolfgang von Goethe
 "Human life is as evanescent as the morning dew or a flash of lightning." - Nehru, Jawaharial
 "Absence from whom we love is worse than death, and frustrates hope severer than despair." - William Cowper
+"Actually, I didn't make the claim that Ruby follows the principle of least surprise. Someone felt the design of Ruby follows that philosophy, so they started saying that. I didn't bring that up, actually." - Yukihiro Matsumoto
+"Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained." - Marie Curie
