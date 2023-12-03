@@ -1442,3 +1442,4 @@
 "What I have experienced over time is that environmental problems are easier to deal with in ways that don't go into their interconnections to the rest of what we are." - Barry Commoner
 "Prejudices are so to speak the mechanical instincts of men: through their prejudices they do without any effort many things they would find too difficult to think through to the point of resolving to do them." - Georg C. Lichtenberg
 "Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family." - Kofi Annan
+"FOR a long time the conviction has been dimly felt in the community that, without prejudice to existing institutions, the legal day of weekly rest might be employed to advantage for purposes affecting the general good." - Felix Adler
