@@ -838,3 +838,4 @@
 "Absence from whom we love is worse than death, and frustrates hope severer than despair." - William Cowper
 "Actually, I didn't make the claim that Ruby follows the principle of least surprise. Someone felt the design of Ruby follows that philosophy, so they started saying that. I didn't bring that up, actually." - Yukihiro Matsumoto
 "Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained." - Marie Curie
+"Everybody's a filmmaker today." - John Milius
