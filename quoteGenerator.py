@@ -1,15 +1,9 @@
 import requests
-from github import Github
 import base64
 import time
 import json
-from token_1 import github_access_token, api_ninja_key
+from token_1 import api_ninja_key
 
-# GitHub credentials and repository information
-github_token = github_access_token
-repository_name = 'RobinMaheshwary/Random-Quotes_Commiter'
-github_username = 'RobinMaheshwary'
-file_path = 'Quotes.txt'
 
 # Define a function to get a random quote and write it to a file
 def get_random_quote_and_write_to_file():
