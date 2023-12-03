@@ -2222,3 +2222,5 @@
 "People who run a ready-to-wear company are businessmen rather than production or design people." - Calvin Klein
 "The art of life is to know how to enjoy a little and to endure very much." - Hazlitt, William
 "Life's greatest happiness is to be convinced we are loved." - Victor Hugo
+"But if you look at WorldCom, which is the biggest failure to date, they grew dramatically, they were buying companies that were bigger than they were and they were doing it off inflated stock." - Don Nickles
+"I believe consistency and orthogonality are tools of design, not the primary goal in design." - Yukihiro Matsumoto
