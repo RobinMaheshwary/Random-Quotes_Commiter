@@ -1584,3 +1584,4 @@
 "I think we risk becoming the best informed society that has ever died of ignorance." - Ruben Blades
 "So that the record of history is absolutely crystal clear. That there is no alternative way, so far discovered, of improving the lot of the ordinary people that can hold a candle to the productive activities that are unleashed by a free enterprise system." - Milton Friedman
 "The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds." - Will Durant
+"Vigorous enforcement of copyrights themselves is an important part of the picture. But I don't think that expanding the legal definition of copyright outside of actual copyright infringement is the right move." - Edward Felten
