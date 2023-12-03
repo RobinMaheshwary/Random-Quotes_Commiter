@@ -539,3 +539,5 @@
 "One way to get the most out of life is to look upon it as an adventure." - William Feather
 "I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder." - Gilbert K. Chesterton
 "Now we're in the midst of not just advocating for change, not just calling for change - we're doing the grinding, sometimes frustrating work of delivering change - inch by inch, day by day." - Barack Obama
+"If you decide to design your own language, there are thousands of sort of amateur language designer pitfalls." - Guido van Rossum
+"My boyfriend and I broke up. He wanted to get married and I didn't want him to." - Rita Rudner
