@@ -1605,3 +1605,4 @@
 "The sentiments in Hawaii about Washington's failure of leadership are no different than the rest of the country." - Ed Case
 "There was nothing more important I could do than be supportive as a dad." - Arne Duncan
 "The man of genius is he and he alone who finds such joy in his art that he will work at it come hell or high water." - Stendhal
+"If one must fight or create, it is necessary that this be preceded by the broadest possible knowledge." - Karel Capek
