@@ -542,3 +542,5 @@
 "If you decide to design your own language, there are thousands of sort of amateur language designer pitfalls." - Guido van Rossum
 "My boyfriend and I broke up. He wanted to get married and I didn't want him to." - Rita Rudner
 "I can get whatever I want to eat and when you, you know, you forget to eat you sometimes pick up fast food." - Star Jones
+"The class distinctions proper to a democratic society are not those of rank or money, still less, as is apt to happen when these are abandoned, of race, but of age." - W. H. Auden
+"With engineering, I view this year's failure as next year's opportunity to try it again. Failures are not something to be avoided. You want to have them happen as quickly as you can so you can make progress rapidly." - Gordon Moore
