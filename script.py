@@ -3,9 +3,10 @@ from github import Github
 import base64
 import time
 import json
+from token_1 import github_access_token, api_ninja_key
 
 # GitHub credentials and repository information
-github_token = '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'
+github_token = github_access_token
 repository_name = 'RobinMaheshwary/Random-Quotes_Commiter'
 github_username = 'RobinMaheshwary'
 file_path = 'Quotes.txt'
@@ -13,7 +14,7 @@ file_path = 'Quotes.txt'
 # Define a function to get a random quote
 def get_random_quote():
     api_key = 's/SEANwQtPUycKnbT6+ZRg==UW3k1oltpploMPgP'  # Replace with your actual API key
-    api_url = 'https://api.api-ninjas.com/v1/quotes'
+    api_url = api_ninja_key
 
     response = requests.get(api_url, headers={'X-Api-Key': api_key})
 
