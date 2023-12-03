@@ -2224,3 +2224,4 @@
 "Life's greatest happiness is to be convinced we are loved." - Victor Hugo
 "But if you look at WorldCom, which is the biggest failure to date, they grew dramatically, they were buying companies that were bigger than they were and they were doing it off inflated stock." - Don Nickles
 "I believe consistency and orthogonality are tools of design, not the primary goal in design." - Yukihiro Matsumoto
+"With respect to the first of these obstacles, it has often been made a matter of grave complaint against Political Economists, that they confine their attention to Wealth, and disregard all consideration of Happiness or Virtue." - Nassau William Senior
