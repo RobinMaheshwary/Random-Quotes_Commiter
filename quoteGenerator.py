@@ -39,4 +39,4 @@ def get_random_quote_and_write_to_file():
 while True:
     get_random_quote_and_write_to_file()
     print('Random quote written to file')
-    time.sleep(10)
+    time.sleep(3)
