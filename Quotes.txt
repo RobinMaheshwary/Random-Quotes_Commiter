@@ -2645,3 +2645,4 @@
 "I've said all along that God is in control." - Tony Dungy
 "There are three kinds of intelligence: one kind understands things for itself, the other appreciates what others can understand, the third understands neither for itself nor through others. This first kind is excellent, the second good, and the third kind useless." - Niccolo Machiavelli
 "I can be almost terminally grief-stricken because things are so dire, but at the same time, there's a real lightheartedness about just the recoverability of life, of how things change, how they're not the same, ever again." - Alice Walker
+"IBM was the original contractor for much of the computer interface design on the film." - Douglas Trumbull
