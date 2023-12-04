@@ -2700,3 +2700,6 @@
 "Leadership is the other side of the coin of loneliness, and he who is a leader must always act alone. And acting alone, accept everything alone." - Ferdinand Marcos
 "Creative people don't behave very well generally. If you're looking for examples of good relationships in show business, you're gonna be depressed real fast. I don't have time for anything else right now but work and my daughter. She's my first priority." - Jim Carrey
 "I like death. I'm a big fan of it." - Guy Ritchie
+"Post-Modernism was a reaction against Modernism. It came quite early to music and literature, and a little later to architecture. And I think it's still coming to computer science." - Larry Wall
+"A leader must have the courage to act against an expert's advice." - James Callaghan
+"When freedom does not have a purpose, when it does not wish to know anything about the rule of law engraved in the hearts of men and women, when it does not listen to the voice of conscience, it turns against humanity and society." - Pope John Paul II
