@@ -17,7 +17,6 @@ def push_and_sync():
 
 
 # Example: Auto commit every hour
-
 while True:
     commit_message = message
     commit_changes(commit_message)
