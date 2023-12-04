@@ -17,13 +17,12 @@ def push_and_sync():
 
 
 # Example: Auto commit every hour
-while True:
-    while True:
-        commit_message = message
-        commit_changes(commit_message)
-        push_and_sync()
-        print("Changes committed, pushed, and synchronized with the repository.")
 
-        # Wait for an hour before the next commit
-        time.sleep(5)  # 3600 seconds = 1 hour
-    time.sleep(1)
+while True:
+    commit_message = message
+    commit_changes(commit_message)
+    push_and_sync()
+    print("Changes committed, pushed, and synchronized with the repository.")
+
+    # Wait for an hour before the next commit
+    time.sleep(5)  # 3600 seconds = 1 hour
