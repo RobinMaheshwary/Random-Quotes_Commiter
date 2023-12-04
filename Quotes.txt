@@ -561,3 +561,5 @@
 "I grew up in a small town in Illinois, and my dad was a basketball coach. Thanks to him, I have excellent fundamentals in both basketball and baseball." - Nick Offerman
 "I don't believe an Alliance government should sponsor legislation on abortion or a referendum on abortion." - Stephen Harper
 "Friendship is almost always the union of a part of one mind with the part of another people are friends in spots." - George Santayana
+"Life is full of change and uncertainty. We know this. We experience it on a daily basis." - Carre Otis
+"Let us change our traditional attitude to the construction of programs. Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do." - Donald Knuth
