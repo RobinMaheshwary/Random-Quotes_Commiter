@@ -711,3 +711,6 @@
 "Most Evangelicals claim to be politically non-partisan, and say they only identify with the Republican Party because the Republicans are committed to 'family values.'" - Tony Campolo
 "Mormons... are so strong, they can handle wealth, they are confident. I think it is because they are not bogged down by rules for equality, but have a firmly defined system of relative status and responsible command." - Mary Douglas
 "Nothing flatters a man as much as the happiness of his wife he is always proud of himself as the source of it." - Samuel Johnson
+"When I write software, I know that it will fail, either due to my own mistake, or due to some other cause." - Wietse Venema
+"If people want to get into leadership through corrupt practices, through corrupt means, I think that's detestable we have to take action." - Jakaya Kikwete
+"Many soldiers returning from Iraq and Afghanistan suffer from serious, long-term, physical and mental health problems, due to their service. It is unconscionable to cut the already limited health care benefits available to these brave men and women." - Mark Dayton
