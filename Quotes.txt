@@ -2703,3 +2703,6 @@
 "Post-Modernism was a reaction against Modernism. It came quite early to music and literature, and a little later to architecture. And I think it's still coming to computer science." - Larry Wall
 "A leader must have the courage to act against an expert's advice." - James Callaghan
 "When freedom does not have a purpose, when it does not wish to know anything about the rule of law engraved in the hearts of men and women, when it does not listen to the voice of conscience, it turns against humanity and society." - Pope John Paul II
+"Government's first duty and highest obligation is public safety." - Arnold Schwarzenegger
+"We need uniform protection of traditional marriage. You can't have different definitions on something as fundamental as marriage. The Marriage Protection Amendment is the only solution to this problem." - Ernest Istook
+"I think Lenat is headed in the right direction, but someone needs to include a knowledge base about learning." - Marvin Minsky
