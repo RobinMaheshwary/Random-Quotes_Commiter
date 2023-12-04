@@ -878,3 +878,5 @@
 "The essence of true friendship is to make allowance for another's little lapses." - David Storey
 "There is an overwhelming amount of information available to us all on the web each day, not to mention what is shared with us by our family, friends, fans, and followers. This necessitates the need to filter through all that information and to decide for ourselves where to put our attention." - Simon Mainwaring
 "I think I'm becoming more relaxed in front of a camera. I suppose I'll always feel slightly more at home on stage. It's more of an actor's medium. You are your own editor, nobody else is choosing what is being seen of you." - Michael Sheen
+"It goes against the grain of modern education to teach students to program. What fun is there to making plans, acquiring discipline, organizing thoughts, devoting attention to detail, and learning to be self critical." - Alan Perlis
+"The megalomaniac differs from the narcissist by the fact that he wishes to be powerful rather than charming, and seeks to be feared rather than loved. To this type belong many lunatics and most of the great men of history." - Bertrand Russell
