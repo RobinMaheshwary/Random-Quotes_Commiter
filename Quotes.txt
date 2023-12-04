@@ -1510,3 +1510,5 @@
 "The principal act of courage is to endure and withstand dangers doggedly rather than to attack them." - Thomas Aquinas
 "I have a very dark sense of humor." - Andy Dick
 "Men are more easily governed through their vices than through their virtues." - Napoleon Bonaparte
+"Enhancing revenues will help us improve education and solve our infrastructure problems." - Roy Barnes
+"My goal is not selling laptops. OLPC is not in the laptop business. It's in the education business." - Nicholas Negroponte
