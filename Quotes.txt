@@ -531,3 +531,32 @@
 "Food is my thing, I do not smoke or drink, so food is my vice." - Kathy Griffin
 "What I needed most was to love and to be loved, eager to be caught. Happily I wrapped those painful bonds around me and sure enough, I would be lashed with the red-hot pokers or jealousy, by suspicions and fear, by burst of anger and quarrels." - Saint Augustine
 "Teaching is the royal road to learning." - Jessamyn West
+"Building technical systems involves a lot of hard work and specialized knowledge: languages and protocols, coding and debugging, testing and refactoring." - Jesse James Garrett
+"I'm afraid that this is me getting on my high horse now but we have yob television, yob newspapers, and funny enough whereas it was my mum and dad, school, police, church who used to set the standards, now it's tabloids and yob television who set the standards by which people live." - Gordon Strachan
+"Tis better to have loved and lost than never to have loved at all.;Alfred Lord Tennyson;love
+42927;Someday, after mastering the winds, the waves, the tides and gravity, we shall harness for God the energies of love, and then, for a second time in the history of the world, man will have discovered fire.;Pierre Teilhard de Chardin;love
+42928;Everything is clearer when you're in love.;John Lennon;love
+42929;The way to love anything is to realize that it may be lost.;Gilbert K. Chesterton;love
+42930;We waste time looking for the perfect lover, instead of creating the perfect love.;Tom Robbins;love
+42931;I was about half in love with her by the time we sat down. That's the thing about girls. Every time they do something pretty... you fall half in love with them, and then you never know where the hell you are.;J. D. Salinger;love
+42932;Who, being loved, is poor?;Oscar Wilde;love
+42933;Love is a game that two can play and both win.;Eva Gabor;love
+42934;For small creatures such as we the vastness is bearable only through love.;Carl Sagan;love
+42935;The one thing we can never get enough of is love. And the one thing we never give enough is love.;Henry Miller;love
+42936;Love is when the other person's happiness is more important than your own.;H. Jackson Brown, Jr.;love
+42937;The giving of love is an education in itself.;Eleanor Roosevelt;love
+42938;All mankind love a lover.;Ralph Waldo Emerson;love
+42939;You will find as you look back upon your life that the moments when you have truly lived are the moments when you have done things in the spirit of love.;Henry Drummond;love
+42940;If you wish to be loved, show more of your faults than your virtues.;Edward G. Bulwer-Lytton;love
+42941;Don't brood. Get on with living and loving. You don't have forever.;Leo Buscaglia;love
+42942;The moment you have in your heart this extraordinary thing called love and feel the depth, the delight, the ecstasy of it, you will discover that for you the world is transformed.;Jiddu Krishnamurti;love
+42943;It is sad not to love, but it is much sadder not to be able to love.;Miguel de Unamuno;love
+42944;Love is of all passions the strongest, for it attacks simultaneously the head, the heart and the senses.;Lao Tzu;love
+42945;The art of love is largely the art of persistence.;Albert Ellis;love
+42946;Love is a friendship set to music.;Joseph Campbell;love
+42947;There is no remedy for love but to love more.;Henry David Thoreau;love
+42948;If you want to be loved, be lovable.;Ovid;love
+42949;Love is the beauty of the soul.;Saint Augustine;love
+42950;Love possesses not nor will it be possessed, for love is sufficient unto love.;Khalil Gibran;love
+42951;Love is the triumph of imagination over intelligence.;H. L. Mencken;love
+42952;To say 'I love you' one must first be able to say the 'I." - Ayn Rand
