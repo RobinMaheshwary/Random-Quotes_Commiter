@@ -146,3 +146,5 @@
 "Yes, sir, a patrol car came and took me down to a station where they were trying to develop films, but they hadn't got the facilities to develop colored film." - Abraham Zapruder
 "The permanent temptation of life is to confuse dreams with reality. The permanent defeat of life comes when dreams are surrendered to reality." - James A. Michener
 "Liberal that I am, I support health-care reform on its merits alone. My liberal blood boils, for example, when I read that half of the personal bankruptcies in this country are brought on, in part, by medical expenses." - Thomas Frank
+"We wanted to solve robot problems and needed some vision, action, reasoning, planning, and so forth. We even used some structural learning, such as was being explored by Patrick Winston." - Marvin Minsky
+"When we cannot hope to win, it is an advantage to yield." - Quintilian
