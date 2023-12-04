@@ -26,3 +26,4 @@ while True:
 
         # Wait for an hour before the next commit
         time.sleep(5)  # 3600 seconds = 1 hour
+    time.sleep(1)
